@@ -1,0 +1,4 @@
+{
+"max_connections_per_ip": 10,
+"ban_duration": 10
+}
